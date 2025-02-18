@@ -1,6 +1,6 @@
 # Otavio Andrade
 
-Profissional de Cloud Computing com experiência em desenvolvimento de software, realizando implementações em infraestrutura na AWS e Google Cloud Plataform.
+Profissional de Cloud Computing com experiência em desenvolvimento de software, realizando implantações em infraestrutura na AWS e Google Cloud Plataform.
 Comprometido com a busca pelo conhecimento para a entrega de soluções inovadoras e eficientes.
 
 <br>
